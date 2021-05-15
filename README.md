@@ -1,2 +1,2 @@
 # rath
-to UI application
+Core Java Practice
